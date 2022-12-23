@@ -1,0 +1,22 @@
+
+
+
+.inactive{
+
+    height: 120px;
+    width: 120px;
+    background-color: #03a9f4;
+    margin: 40px;
+
+
+}
+
+
+
+.active{
+
+    height: 120px;
+    width: 120px;
+    background-color: #1bf403;
+    margin: 40px;
+}
